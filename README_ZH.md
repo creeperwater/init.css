@@ -9,25 +9,44 @@
 该库目前包含了三种情境下的CSS初始化，你可以查看源代码：
 
 - 普通网页 - [page.css](src/page.css)
-- 仿app网页 - app.css
-- 网页游戏 - game.css
+- 仿app网页 - [app.css](src/app.css)
+- 网页游戏 - [game.css](src/game.css)
 
 ## 属性
 
-### 普通网页
+### page.css
 
 - 去除边距
 - 边框宽度包含在总宽度中
 - 去除各个标签的默认样式
 - 设置了默认字体
 
+### app.css
+
+- 去除边距
+- 边框宽度包含在总宽度中
+- 去除各个标签的默认样式
+- 设置了默认字体
+- 页面整体禁止滚动
+- 禁止用户选中
+
+### game.css
+
+- 去除边距
+- 边框宽度包含在总宽度中
+- 去除各个标签的默认样式
+- 设置了默认字体
+- 页面整体禁止滚动
+- 禁止用户选中
+- 屏蔽手势动作
+
 ## 预览
 
 你可以在线预览init.css在不同浏览器中的效果：
 
-- [普通网页](https://creeperwater.github.io/init.css/view/page.html)
-- 仿app网页
-- 游戏网页
+- [page.css](https://creeperwater.github.io/init.css/view/page.html)
+- [app.css](https://creeperwater.github.io/init.css/view/app.html)
+- [game.css](https://creeperwater.github.io/init.css/view/game.html)
 
 ## 使用方法
 

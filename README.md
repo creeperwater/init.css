@@ -21,13 +21,32 @@ The library currently contains CSS initialization in three scenarios, which you 
 - Remove the default styles for each label
 - Set the default font
 
+### app.css
+
+- Remove margins
+- The border width is included in the total width
+- Remove the default styles for each label
+- Set the default font
+- Disable scrolling on the entire page
+- Disable user selection
+
+### game.css
+
+- Remove margins
+- The border width is included in the total width
+- Remove the default styles for each label
+- Set the default font
+- Disable scrolling on the entire page
+- Disable user selection
+- Block gestures
+
 ## Preview
 
 You can preview init.css online in different browsers:
 
 - [page.css](https://creeperwater.github.io/init.css/view/page.html)
-- app.css
-- game.css
+- [app.css](https://creeperwater.github.io/init.css/view/app.html)
+- [game.css](https://creeperwater.github.io/init.css/view/game.html)
 
 ## How to use
 
