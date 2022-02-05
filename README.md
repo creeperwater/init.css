@@ -1,7 +1,7 @@
 En | [中](README_ZH.md)
 
-<div style='text-align:center;'>
-<img src='img/logo.png' style='width:250px;'>
+<div align='center'>
+<img src='img/logo.png' width='240'>
 <p>A simple CSS initialization library</p>
 </div>
 
