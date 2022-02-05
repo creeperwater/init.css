@@ -1,9 +1,13 @@
 En | [中](README.zh.md)
 
+Github | [Gitee](https://gitee.com/creeperwater/init.css)
+
 <div align='center'>
 <img src='img/logo.png' width='240'>
 <p>A simple CSS initialization library</p>
 </div>
+
+Lazy to read the instruction? Just jump to [How to use](#how-to-use)
 
 ## Introduction
 
