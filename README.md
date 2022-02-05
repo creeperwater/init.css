@@ -1,8 +1,9 @@
-### En | [中](README_ZH.md)
+En | [中](README_ZH.md)
 
-# init.css
-
-A simple CSS initialization library.
+<div style='text-align:center;'>
+<img src='img/logo.png' style='width:250px;'>
+<p>A simple CSS initialization library</p>
+</div>
 
 ## Introduction
 

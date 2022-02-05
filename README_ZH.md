@@ -1,8 +1,9 @@
-### 中 | [En](README.md)
+中 | [En](README.md)
 
-# init.css
-
-一个简约的CSS初始化库。
+<div style='text-align:center;'>
+<img src='img/logo.png' style='width:250px;'>
+<p>一个简约的CSS初始化库</p>
+</div>
 
 ## 简介
 
