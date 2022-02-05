@@ -1,4 +1,4 @@
-中 | [En](README.en.md)
+中 | [En](README.md)
 
 <div align='center'>
 <img src='img/logo.png' width='240'>
