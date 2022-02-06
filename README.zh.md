@@ -1,10 +1,9 @@
-中 | [En](README.md)
-
-Github | [Gitee](https://gitee.com/creeperwater/init.css)
-
 <div align='center'>
-<img src='img/logo.png' width='240'>
+<img src='img/logo.png' width='250' alt='logo'>
 <p>一个简约的CSS初始化库</p>
+<a href='https://github.com/creeperwater/init.css/'><img src="img/github.png" width='70' alt='star'></a>
+<a href='https://gitee.com/creeperwater/init.css/'><img src='img/gitee.png' width='70' alt='star'/></a>
+<p>中 | <a href='README.md'>En</a></p>
 </div>
 
 懒得看说明？直接跳转[使用方法](#使用方法)
@@ -47,7 +46,7 @@ Github | [Gitee](https://gitee.com/creeperwater/init.css)
 
 ## 预览
 
-你可以在线预览init.css在不同浏览器中的效果：
+你可以访问网页在线预览init.css在不同浏览器中的效果：
 
 - [page.css](https://creeperwater.github.io/init.css/view/page.html)
 - [app.css](https://creeperwater.github.io/init.css/view/app.html)
@@ -55,7 +54,10 @@ Github | [Gitee](https://gitee.com/creeperwater/init.css)
 
 ## 使用方法
 
-你可以在[release](https://github.com/creeperwater/init.css/releases)中下载init.min.css，
+你可以在**release**中下载init.min.css，
+
+- [Github](https://github.com/creeperwater/init.css/releases)
+- [Gitee](https://gitee.com/creeperwater/init.css/releases)
 
 或使用以下代码将init.min.css引入你的网页。（仅供测试）
 

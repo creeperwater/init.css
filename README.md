@@ -1,10 +1,9 @@
-En | [中](README.zh.md)
-
-Github | [Gitee](https://gitee.com/creeperwater/init.css)
-
 <div align='center'>
-<img src='img/logo.png' width='240'>
+<img src='img/logo.png' width='250' alt='logo'>
 <p>A simple CSS initialization library</p>
+<a href='https://github.com/creeperwater/init.css/'><img src="img/github.png" width='70' alt='star'></a>
+<a href='https://gitee.com/creeperwater/init.css/'><img src='img/gitee.png' width='70' alt='star'/></a>
+<p>En | <a href='README.zh.md'>中</a></p>
 </div>
 
 Lazy to read the instruction? Just jump to [How to use](#how-to-use)
@@ -47,7 +46,7 @@ The library currently contains CSS initialization in three scenarios, which you 
 
 ## Preview
 
-You can preview init.css online in different browsers:
+You can visit the web page to preview init.css online in different browsers:
 
 - [page.css](https://creeperwater.github.io/init.css/view/page.html)
 - [app.css](https://creeperwater.github.io/init.css/view/app.html)
@@ -55,7 +54,10 @@ You can preview init.css online in different browsers:
 
 ## How to use
 
-You can download init.min.css in [release](https://github.com/creeperwater/init.css/releases),
+You can download init.min.css in **release**,
+
+- [Github](https://github.com/creeperwater/init.css/releases)
+- [Gitee](https://gitee.com/creeperwater/init.css/releases)
 
 Or use the following code to introduce init.min.css to your web page. (test only)
 
